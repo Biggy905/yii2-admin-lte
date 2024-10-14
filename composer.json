@@ -1,0 +1,28 @@
+{
+  "name": "biggy905/yii-admin-lte",
+  "description": "",
+  "keywords": [
+    "yii2",
+    "extension",
+    "widget",
+    "admin-lte"
+  ],
+  "homepage": "https://github.com/biggy905/yii2-admin-lte",
+  "type": "yii2-extension",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Alexander Bolgov"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "biggy905\\yii-admin-lte\\": "src"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.0.x-dev"
+    }
+  }
+}
